@@ -3,7 +3,11 @@ WayFare - Your Smart Budget Travel Companion
 "Plan Smart, Travel More"
 
 What is WayFare?
-WayFare is an AI-powered itinerary designed to help travelers plan their trips efficiently while staying within budget. It includes morning, afternoon, and evening plans, travel time estimation, lunch and dinner suggestions  per day expense and travel advice
+WayFare is an AI-powered itinerary designed to help travelers plan their trips efficiently while staying within budget. It includes morning, afternoon, and evening plans, travel time estimation, lunch and dinner suggestions  per day expense and travel advice.
+
+*Points to note*
+> API calls take time to process, please be patient
+> Weather approximation for more than 5 days might not be accurate, please cross-check before trusting!
 
 Accommodations estimation
 Food
